@@ -11,28 +11,28 @@
 
 In this project, I'll explore and analyse Seattle's Airbnb data 2016. This project will answer three questions:
 
-1- What are the main factors that effect Airbnb listing prices?
+- What are the main factors that effect Airbnb listing prices?
 
-2- What are the price peaks in 2016, any outlier neighborhoods?
+- What are the price peaks in 2016, any outlier neighborhoods?
 
-3- Is there a correlation betwwen the review type (positive/negative) and the neighbourhood group?
+- Is there a correlation betwwen the review type (positive/negative) and the neighbourhood group?
 
 
 ## Input files and libraries <a name="files"></a>
 
 The Seattle Airbnb Open Data file that was downloaded from [here](https://www.kaggle.com/airbnb/seattle/data)
 
-1- numpy
+- numpy
 
-2- matplotlib.pyplot
+- matplotlib.pyplot
 
-3- os
+- os
 
-4- pandas
+- pandas
 
-5- seaborn
+- seaborn
 
-6- plotly.express
+- plotly.express
 
 
 ## Results <a name="results"></a>
