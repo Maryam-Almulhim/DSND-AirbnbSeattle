@@ -24,8 +24,13 @@ In this project, I'll explore and analyse Seattle's Airbnb data 2016. This proje
 The Seattle Airbnb Open Data file that was downloaded from [here](https://www.kaggle.com/airbnb/seattle/data)
 
 1- numpy
+
 2- matplotlib.pyplot
+
 3- os
+
 4- pandas
+
 5- seaborn
+
 6- plotly.express
