@@ -5,7 +5,6 @@
 1. [Introduction](#introduction)
 2. [Input Files and libraries](#files)
 3. [Results](#results)
-5. [Conclusion](#conclusion)
 
 
 ## Introduction <a name="introduction"></a>
@@ -34,3 +33,14 @@ The Seattle Airbnb Open Data file that was downloaded from [here](https://www.ka
 5- seaborn
 
 6- plotly.express
+
+
+## Results <a name="results"></a>
+
+- There is a positive correlation between listing's price and number of bedrooms and bathrooms.
+
+- The magority of neighbourhoods have it's highest average listings prices at Seattle in summer months: June, July, and August. The most affected neighbourhood group is downtown's Seattle, prices increased ~30% in summer months. 
+
+- University district has the highest negative comments ratio compared to other neighbourhoods. Staying at University district seems unfavorable to Seattle's visitors.
+
+- Downtown and Cascade neighbourhoods have high positive and negative comments ratios compared to other neighbourhoods.
