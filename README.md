@@ -27,8 +27,6 @@ The Seattle Airbnb Open Data file that was downloaded from [here](https://www.ka
 
 - matplotlib.pyplot
 
-- os
-
 - pandas
 
 - seaborn
