@@ -44,3 +44,5 @@ The Seattle Airbnb Open Data file that was downloaded from [here](https://www.ka
 - University district has the highest negative comments ratio compared to other neighbourhoods. Staying at University district seems unfavorable to Seattle's visitors.
 
 - Downtown and Cascade neighbourhoods have high positive and negative comments ratios compared to other neighbourhoods.
+
+Medium blog can be accessed [here](https://medium.com/@Maryam9/seattle-airbnb-listings-data-analysis-62c6ad772aa)
