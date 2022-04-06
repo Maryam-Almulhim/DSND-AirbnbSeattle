@@ -50,6 +50,7 @@ Medium blog can be accessed [here](https://medium.com/@Maryam9/seattle-airbnb-li
 ## Acknowledgements <a name="acknowledgements"></a>
 
 The Seattle Airbnb Open Data file that was downloaded from [here](https://www.kaggle.com/airbnb/seattle/data)
+
 Below blogs were usfeul for delivering the porject output:
 - [Express way to do Visualization in Python](https://medium.com/analytics-vidhya/express-way-to-do-visualization-in-python-b9bc01143553) 
 - [Graphing Latitudes and Longitudes using Python](https://medium.com/@ianforrest11/graphing-latitudes-and-longitudes-on-a-map-bf64d5fca391) 
